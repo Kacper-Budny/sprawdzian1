@@ -1,0 +1,45 @@
+body {
+    background-color: khaki;
+}
+
+table {
+    color:red;
+    margin:300px auto;
+    border-collapse:collapse;
+    border:solid 1px red;
+}
+
+h1{
+    color: blue;
+}
+
+tr,
+td {
+    border-collapse: collapse;
+    border: solid 1px red;
+    padding: 10px;
+}
+
+.liczby1 {
+    background-color: blueviolet;
+    color:white;
+}
+
+.cell1 {
+    background-color: yellow;
+}
+
+.par {
+    margin: 0 auto;
+    width: 55px;
+}
+
+.lista {
+    list-style: none;
+}
+.plus{
+    display: block;
+    font-size: 50px;
+    width: 30px;
+    margin: 0 auto;
+}
